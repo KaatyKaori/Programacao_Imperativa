@@ -32,7 +32,7 @@ console.log('O valor do number0 é', number0);
 
 let nome = 'Ana Paula';
 let idade = 26;
-let peso = 55,0;
+let peso = 55.0
 let altura = 1.62;
 let plano = true;
 let IMC = peso/(altura ^ 2);
