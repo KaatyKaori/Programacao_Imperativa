@@ -1,5 +1,5 @@
-let soma = require('./modulos/soma');
-let multiplica = require('./modulos/multiplicacao');
+let soma = require('./modulos/sum');
+let multiplica = require('./modulos/mult');
 
 console.log(soma(2,5));
 console.log(multiplica(2,5));
@@ -11,3 +11,4 @@ weather.find({search: 'Paulinia, SP, Brazil', degreeType: 'C'}, function(err, re
    
     console.log(JSON.stringify(result, null, 2));
   });
+
