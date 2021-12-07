@@ -1,7 +1,7 @@
 // Minha Primeira Aplicação I
 // Tem-se um conjunto de dados contendo a altura e o sexo (M ou F) de 15 pessoas. Faça um programa que calcule e escreva:
 
-let pessoas = require('./mesaArquivo');
+let pessoas = require('./arquivos');
 console.log(pessoas);
 
 
